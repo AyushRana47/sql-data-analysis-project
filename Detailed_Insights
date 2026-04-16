@@ -1,0 +1,111 @@
+#  Key Business Insights
+
+This document summarizes the key findings derived from customer and product analysis using SQL.
+
+---
+
+##  Customer Insights
+
+### 1. Revenue Distribution
+Revenue is evenly distributed across customer segments:
+- New Customers: 38%
+- VIP Customers: 37%
+- Regular Customers: 25%
+
+This indicates strong customer acquisition but weak conversion into long-term loyal customers.
+
+---
+
+### 2. Customer Retention Issue
+- 63% of customers are one-time buyers  
+- 92% of customers have a lifespan of less than 6 months  
+- Only 0.6% customers stay beyond 10 months  
+
+This highlights a major retention problem, with most customers not returning after their first purchase.
+
+---
+
+### 3. Customer Value Behavior
+- Average Order Value (AOV): $911  
+- Average Monthly Spend: $452  
+
+Customers tend to make high-value purchases but infrequently, indicating low purchase frequency.
+
+---
+
+### 4. High-Value Demographic
+- Customers aged 50+ contribute 66% of total revenue  
+- Customers aged 30–39 contribute 32%  
+
+Older customers are the primary revenue drivers for the business.
+
+---
+
+### 5. Revenue Concentration
+- Top 20% of customers contribute only 34% of total revenue  
+
+Revenue is not highly concentrated, suggesting a broad but less loyal customer base.
+
+---
+
+### 6. Repeat Purchase Behavior
+A large portion of customers do not return after their first purchase, indicating weak engagement and lack of retention strategies.
+
+---
+
+## Product Insights
+
+### 7. Category Dependency
+- Bikes generate 96% of total revenue  
+
+The business is highly dependent on a single product category, increasing risk.
+
+---
+
+### 8. Subcategory Concentration
+- Road Bikes contribute 50% of total revenue  
+
+A single subcategory drives a significant portion of revenue, creating dependency risk.
+
+---
+
+### 9. Product Performance Distribution
+- High-performing products contribute 94% of total revenue  
+
+A small set of products dominates performance, while the majority underperform.
+
+---
+
+### 10. Order Volume vs Revenue
+- Accessories account for 60% of total orders  
+
+Despite high order volume, accessories contribute relatively low revenue, acting as supporting products.
+
+---
+
+### 11. Revenue Risk Insight
+Revenue is heavily concentrated in a few product categories and segments, making the business vulnerable to demand fluctuations.
+
+---
+
+##  Cross Insights
+
+### 12. Customer–Product Dependency
+High-value customers are primarily contributing to revenue through bike purchases, reinforcing dependency on a single category.
+
+---
+
+### 13. Business Model Observation
+The business relies on high-value, low-frequency purchases rather than consistent repeat buying behavior.
+
+---
+
+##  Overall Conclusion
+The business shows strong revenue generation capability but suffers from:
+- Weak customer retention  
+- High product dependency  
+- Low repeat purchase behavior  
+
+Addressing these issues is critical for sustainable long-term growth.
+
+---
